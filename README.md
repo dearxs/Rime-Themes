@@ -36,8 +36,7 @@ patch:
       candidate_text_color: '0xF2D701'
       label_color: '0xF2D701'
       comment_text_color: '0xF2D701'
-      
-	### 其他内容
+# 其他内容
 
 ```
 
