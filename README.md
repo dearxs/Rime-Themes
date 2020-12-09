@@ -5,7 +5,9 @@ Mac 中文输入法鼠须管“赛博朋克 2077”主题。
 A color scheme for Rime based on the game Cyberpunk 2077 by CDProject Red.
 
 ## 主题效果：
-![](img/screenshot.png = 100x)
+
+<img src="img/screenshot.png" width="260">
+
 
 ## 使用方法：
 将 `2077.yaml` 的内容粘贴至 `Rime` 根目录下的 `squirrel.custom.yaml` 中（如果没有请自行创建），然后 `color_scheme` 选择 `2077` 即可。
@@ -42,7 +44,9 @@ patch:
 
 ## 自定义后的效果
 ### 竖排
-![](img/customized-non-h.png = 100x)
+
+<img src="img/customized-non-h.png" width="260">
+
 ### 横排
 ![](img/customized-h.png)
 
