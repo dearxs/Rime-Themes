@@ -62,10 +62,10 @@ patch:
     inline_preedit: true #单行显示，false双行显示 
     candidate_format: "\u2005%c\u2005%@\u2005"  #  1/6 em 空格 U+2005 
 
-    label_font_face: "JetBrains Mono Medium" 
+    label_font_face: "JetBrains Mono Medium" #没有安装可替换为 "Skia"
     label_font_point: 13   
 
-    font_face: "FZSongKeBenXiuKai-R-GBK" ##方正清刻本秀楷字体
+    font_face: "FZSongKeBenXiuKai-R-GBK" ##方正清刻本秀楷字体 #不喜欢可以替换为 "PingFang SC"
     font_point: 18  #候选字词大小 
 
     corner_radius: 5  #候选条圆角
