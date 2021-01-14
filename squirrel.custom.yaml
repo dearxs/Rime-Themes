@@ -49,3 +49,27 @@ preset_color_schemes:
       candidate_text_color: '0xF2D701'
       label_color: '0xF2D701'
       comment_text_color: '0xF2D701'
+
+        md:
+      name: Mac Dark
+      author: Khan
+      back_color: '0x22201E'
+      text_color: '0xDBD9D8'
+      hilited_candidate_text_color: '0xffffff'
+      hilited_candidate_back_color: '0xCF5701'
+      hilited_candidate_label_color: '0xffffff'
+      candidate_text_color: '0xDBD9D8'
+      label_color: '0x737270'
+      comment_text_color: '0xDBD9D8'
+
+    ml:
+      name: Mac Light
+      author: Khan
+      back_color: '0xFFFFFE'
+      text_color: '0x575655'
+      hilited_candidate_text_color: '0xffffff'
+      hilited_candidate_back_color: '0xD65A00'
+      hilited_candidate_label_color: '0xffffff'
+      candidate_text_color: '0x575655'
+      label_color: '0x8C8B8A'
+      comment_text_color: '0x575655'

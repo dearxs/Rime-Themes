@@ -1,6 +1,6 @@
 ## 鼠须管各种主题（配色）
 
-自己没事用 [Rime 西米 for Squirrel](https://gjrobert.github.io/Rime-See-Me-squirrel/) 调制的 Mac 中文输入法鼠须管各种配色（color_scheme），适用于竖排、且 `inline_preedit: true` 的模式，如下：
+自己没事用 [Rime 西米 for Squirrel](https://gjrobert.github.io/Rime-See-Me-squirrel/) 调制的 Mac 中文输入法鼠须管各种配色（color_scheme），适用于竖排且 `inline_preedit: true` 的模式，如下：
 
 ![github 暗色主题](img/github.png)
 
@@ -8,7 +8,11 @@
 
 其他模式的外观没有具体设置配色，所以可能会出现问题。
 
-## 主题效果：
+## 主题种类及效果：
+- github，仿 github 暗色；
+- 2077，仿 Cyberpunk 2077；
+- mac light，仿 Catalina 原生亮色模式；
+- mac dark，仿 Catalina 原生暗色模式；
 
 查看主题效果可前往 `img/` 文件夹查看。
 
